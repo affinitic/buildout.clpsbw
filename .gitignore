@@ -10,6 +10,7 @@ debian/clpsbw-website/
 debian/files
 devel/
 develop-eggs/
+downloads/
 include/
 lib/
 local/
