@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<object>
-
-    <hidden manager="plone.portalheader"
-            skinname="clpsbw skin"
-            based-on="Sunburst Theme">
-        <viewlet name="plone.personnal_bar" />
-    </hidden>
-</object>

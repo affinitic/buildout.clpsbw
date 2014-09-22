@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<metadata>
-  <description>Affinitic skin</description>
-  <version>0.1</version>
-  <dependencies>
-      <dependency>profile-plone.app.theming:default</dependency>
-  </dependencies>
-</metadata>

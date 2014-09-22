@@ -1,9 +1,0 @@
-<div id="header-clpsbw"
-     tal:define="view context/getBannerStyle;">
-
-  <span tal:define="banner view/getBannerStyle | nothing">
-      <img tal:condition="banner" src="" tal:replace="structure banner" />
-  </span>
-
-</div>a
-<!--<div class="visualClear"></div>-->

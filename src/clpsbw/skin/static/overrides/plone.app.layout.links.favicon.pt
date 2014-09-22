@@ -1,4 +1,0 @@
-<tal:favicon define="portal_url view/site_url">
-    <link rel="shortcut icon" type="image/x-icon" href="++theme++clpsbw.skin/images/favicon.ico" />
-    <link rel="apple-touch-icon" href="++theme++clpsbw.skin/images/touch_icon.png" />
-</tal:favicon>
